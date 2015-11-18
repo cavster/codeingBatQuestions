@@ -6,6 +6,6 @@ package com.company;
 public class Q1IsWeekDay {
 
     public boolean sleepIn(boolean weekday, boolean vacation) {
-        return true;
+        return false;
     }
 }
